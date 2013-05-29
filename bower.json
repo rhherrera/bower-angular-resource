@@ -3,6 +3,6 @@
   "version": "1.1.5",
   "main": "./angular-resource.js",
   "dependencies": {
-    "git://github.com/rhherrera/bower-angular.git": "~1.1.5"
+    "angular": "git://github.com/rhherrera/bower-angular.git#~1.1.5"
   }
 }
